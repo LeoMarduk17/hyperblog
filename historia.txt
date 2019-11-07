@@ -3,3 +3,22 @@ Esta es la historia de Edson Leonel.
 Información básica de un archivo txt.
 
 Mañana nos enfocaremos en su vida laboral
+
+body
+{
+    color: deeppink;
+    text-align: center;
+    font-family: "Arial";
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
+}
